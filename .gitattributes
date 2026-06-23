@@ -1,21 +1,30 @@
-# Configuração do GitHub Linguist para corrigir as estatísticas de linguagem (a barrinha de cores do repositório)
+# ==============================================================================
+# GitHub Linguist Configuration
+# Defines how repository language statistics are calculated for the codebase.
+# ==============================================================================
 
-# 1. Ignorar a pasta de mapas (muitos arquivos JSON pesados que mascaram a linguagem real do projeto)
+# ------------------------------------------------------------------------------
+# 1. Vendored & Generated Content
+# Exclude map data, assets, and lockfiles from language metrics.
+# ------------------------------------------------------------------------------
 stars/** linguist-vendored
-stars/** linguist-generated=true
+*.json linguist-vendored
+*.lock linguist-vendored
+*.svg linguist-vendored
 
-# 2. Remover arquivos de configuração e dados da contagem de linguagens
-*.json linguist-detectable=false
-*.lock linguist-detectable=false
-*.svg linguist-detectable=false
-
-# 3. Remover scripts e estilos soltos para não caírem no grupo "Other"
+# ------------------------------------------------------------------------------
+# 2. Auxiliary Configurations
+# Exclude runtime config scripts and generic styles to prevent 'Other' grouping.
+# ------------------------------------------------------------------------------
 *.mjs linguist-detectable=false
 *.js linguist-detectable=false
 *.css linguist-detectable=false
 *.html linguist-detectable=false
 
-# 4. Forçar e priorizar as linguagens principais do projeto (TypeScript, React e Rust)
+# ------------------------------------------------------------------------------
+# 3. Core Stack Enforcement
+# Explicitly map source files to our primary technologies (Next.js & Tauri).
+# ------------------------------------------------------------------------------
 *.ts linguist-language=TypeScript
 *.tsx linguist-language=TypeScript
 *.rs linguist-language=Rust
