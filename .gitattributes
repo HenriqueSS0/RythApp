@@ -9,8 +9,11 @@ stars/** linguist-generated=true
 *.lock linguist-detectable=false
 *.svg linguist-detectable=false
 
-# 3. Remover scripts auxiliares soltos, se quiser que o projeto foque só no core
-extract_knowledge.mjs linguist-vendored
+# 3. Remover scripts e estilos soltos para não caírem no grupo "Other"
+*.mjs linguist-detectable=false
+*.js linguist-detectable=false
+*.css linguist-detectable=false
+*.html linguist-detectable=false
 
 # 4. Forçar e priorizar as linguagens principais do projeto (TypeScript, React e Rust)
 *.ts linguist-language=TypeScript
