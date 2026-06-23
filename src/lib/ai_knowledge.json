@@ -1,0 +1,76 @@
+{
+  "Rhythia Master Laws": "This is the mathematical truth extracted from the user's favorite maps.",
+  "Difficulty Scaling": {
+    "9.0 - 9.99 Stars": {
+      "maps": 2,
+      "averageNPS": 17.804017027842605,
+      "peakNPS": 45
+    },
+    "7.0 - 7.99 Stars": {
+      "maps": 4,
+      "averageNPS": 14.14163357297067,
+      "peakNPS": 63
+    },
+    "2.0 - 2.99 Stars": {
+      "maps": 10,
+      "averageNPS": 5.6413873893262565,
+      "peakNPS": 123
+    },
+    "6.0 - 6.99 Stars": {
+      "maps": 7,
+      "averageNPS": 13.691823939526435,
+      "peakNPS": 77
+    },
+    "3.0 - 3.99 Stars": {
+      "maps": 8,
+      "averageNPS": 6.798946828018315,
+      "peakNPS": 63
+    },
+    "5.0 - 5.99 Stars": {
+      "maps": 7,
+      "averageNPS": 10.038666314564514,
+      "peakNPS": 106
+    },
+    "4.0 - 4.99 Stars": {
+      "maps": 11,
+      "averageNPS": 6.849268414064355,
+      "peakNPS": 26
+    },
+    "8.0 - 8.99 Stars": {
+      "maps": 3,
+      "averageNPS": 16.881299584612034,
+      "peakNPS": 42
+    },
+    "1.0 - 1.99 Stars": {
+      "maps": 3,
+      "averageNPS": 2.1791653966791125,
+      "peakNPS": 8
+    },
+    "10.0 - 10.99 Stars": {
+      "maps": 1,
+      "averageNPS": 21.44194225424017,
+      "peakNPS": 43
+    },
+    "11.0 - 11.99 Stars": {
+      "maps": 2,
+      "averageNPS": 17.887581062887747,
+      "peakNPS": 98
+    },
+    "14.0 - 14.99 Stars": {
+      "maps": 1,
+      "averageNPS": 16.64049956979519,
+      "peakNPS": 39
+    },
+    "0.0 - 0.99 Stars": {
+      "maps": 1,
+      "averageNPS": 2.205912792520004,
+      "peakNPS": 10
+    }
+  },
+  "Structural Behavior Rules": {
+    "Drops": "Highest density chunks in the map, highly bursty, usually hitting peak NPS.",
+    "Vocals": "Rhythmic, lower density than drops, follows strict syllable timing.",
+    "Breaks": "Extremely low density or total silence, used for tension building before drops.",
+    "Build-ups": "Progressive density increase, ladders and stairs used frequently."
+  }
+}

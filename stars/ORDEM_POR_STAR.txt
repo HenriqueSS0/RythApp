@@ -1,0 +1,62 @@
+Mapas renomeados em ordem por StarRating (maior para menor)
+
+01. 9.24★ | Difficulty 5 | ТРАВМА - Закричу на весь мир
+    Arquivo: 01 - 9.24★ - D5 - ТРАВМА - Закричу на весь мир.json
+
+02. 7.90★ | Difficulty 5 | fallen777angel - гладиатор/рыцарь
+    Arquivo: 02 - 7.90★ - D5 - fallen777angel - гладиаторрыцарь.json
+
+03. 6.32★ | Difficulty 5 | Camellia - Xeroa ("preconnaiXance" Long Ver.) | Custom: ヘブンレ・ヘーブン
+    Arquivo: 03 - 6.32★ - D5 - Camellia - Xeroa (preconnaiXance Long Ver.) - ヘブンレ・ヘーブン.json
+
+04. 5.71★ | Difficulty 0 | cartier god - london nights
+    Arquivo: 04 - 5.71★ - D0 - cartier god - london nights.json
+
+05. 5.48★ | Difficulty 4 | nyan.mp3 - Почему котикам компьютеры не нравятся
+    Arquivo: 05 - 5.48★ - D4 - nyan.mp3 - Почему котикам компьютеры не нравятся.json
+
+06. 5.33★ | Difficulty 4 | wh4t - Game Time | Custom: Game Over!
+    Arquivo: 06 - 5.33★ - D4 - wh4t - Game Time - Game Over!.json
+
+07. 5.04★ | Difficulty 5 | Netherwalker - Thine King Weeps for Mercy | Custom: Ruth upon my Pain
+    Arquivo: 07 - 5.04★ - D5 - Netherwalker - Thine King Weeps for Mercy - Ruth upon my Pain.json
+
+08. 4.96★ | Difficulty 0 | pupis
+    Arquivo: 08 - 4.96★ - D0 - pupis.json
+
+09. 4.92★ | Difficulty 5 | паранойя –шофёр eelijahh 
+    Arquivo: 09 - 4.92★ - D5 - паранойя –шофёр eelijahh.json
+
+10. 4.78★ | Difficulty 4 | Я НЕ БУДУ ДЖЕРКАТЬ
+    Arquivo: 10 - 4.78★ - D4 - Я НЕ БУДУ ДЖЕРКАТЬ.json
+
+11. 4.55★ | Difficulty 3 | dabbackwood - speed | Custom: 2000 speed
+    Arquivo: 11 - 4.55★ - D3 - dabbackwood - speed - 2000 speed.json
+
+12. 4.38★ | Difficulty 5 | Emoslut666 - Покончил x
+    Arquivo: 12 - 4.38★ - D5 - Emoslut666 - Покончил x.json
+
+13. 3.63★ | Difficulty 3 | shadowraze - Холoд
+    Arquivo: 13 - 3.63★ - D3 - shadowraze - Холoд.json
+
+14. 3.45★ | Difficulty 3 | Erika - I Don't Know (Nightcore & Cut Ver.)
+    Arquivo: 14 - 3.45★ - D3 - Erika - I Don't Know (Nightcore & Cut Ver.).json
+
+15. 2.69★ | Difficulty 3 | Warak - REANIMATE | Custom: Rhythm Master
+    Arquivo: 15 - 2.69★ - D3 - Warak - REANIMATE - Rhythm Master.json
+
+16. 2.60★ | Difficulty 3 | LAZZY2WICE - Опускаются руки
+    Arquivo: 16 - 2.60★ - D3 - LAZZY2WICE - Опускаются руки.json
+
+17. 2.38★ | Difficulty 3 | G2961 - Kimi to hashiru!
+    Arquivo: 17 - 2.38★ - D3 - G2961 - Kimi to hashiru!.json
+
+18. 2.08★ | Difficulty 3 | egor kreed - если ты меня не любишь
+    Arquivo: 18 - 2.08★ - D3 - egor kreed - если ты меня не любишь.json
+
+19. 1.43★ | Difficulty 2 | X3ll3n - Madness 2022
+    Arquivo: 19 - 1.43★ - D2 - X3ll3n - Madness 2022.json
+
+20. 0.73★ | Difficulty 1 | Кишлак, Бонд с Кнопкой - Существо
+    Arquivo: 20 - 0.73★ - D1 - Кишлак, Бонд с Кнопкой - Существо.json
+

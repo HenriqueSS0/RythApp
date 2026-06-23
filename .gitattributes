@@ -1,0 +1,18 @@
+# Configuração do GitHub Linguist para corrigir as estatísticas de linguagem (a barrinha de cores do repositório)
+
+# 1. Ignorar a pasta de mapas (muitos arquivos JSON pesados que mascaram a linguagem real do projeto)
+stars/** linguist-vendored
+stars/** linguist-generated=true
+
+# 2. Remover arquivos de configuração e dados da contagem de linguagens
+*.json linguist-detectable=false
+*.lock linguist-detectable=false
+*.svg linguist-detectable=false
+
+# 3. Remover scripts auxiliares soltos, se quiser que o projeto foque só no core
+extract_knowledge.mjs linguist-vendored
+
+# 4. Forçar e priorizar as linguagens principais do projeto (TypeScript, React e Rust)
+*.ts linguist-language=TypeScript
+*.tsx linguist-language=TypeScript
+*.rs linguist-language=Rust
